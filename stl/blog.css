@@ -1,13 +1,14 @@
 nav li{
-    list-style: none;
+    list-style: none ;
     display: inline;
-    margin-right: 15px;
-    
+    margin-right: 15p;
 }
-nav li a {
-    text-decoration: none;
-}
-nav li:hover{
 
-    background-color: aquamarine;
+nav li:hover{
+    background-color: aqua;
+}
+
+nav li a{
+    text-decoration: none;
+
 }
