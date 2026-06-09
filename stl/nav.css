@@ -1,3 +1,19 @@
-nav ui{
+nav ul{
     display:flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 10px;
+    font-size: 18px;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{
+    color: blue;
+    border: solid rgb(255, 0, 0) 2px;
+    background-color: aquamarine;
+    font-size: 18px;
+    
 }

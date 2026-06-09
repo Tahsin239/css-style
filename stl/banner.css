@@ -1,0 +1,24 @@
+body{
+    max-width: 1270;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+}
+.hero-contsiner{
+    display:flex;
+    background-color: rgb(254, 140, 0);
+    padding: 25px;
+    align-items: center;
+    
+}
+.hero-contsiner button{
+    background-color: aquamarine;
+    padding: 20px;
+    border: solid sienna 2px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.hero-contsiner img{
+    width: 100%;
+    height: 400px;
+
+}
