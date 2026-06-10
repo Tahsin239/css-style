@@ -1,0 +1,36 @@
+body{
+    max-width:1170px;
+    margin: 0 auto;
+}
+.card-sectation{
+    text-align: center;
+}
+
+.card-continer{
+   display: flex;
+   gap: 10px; 
+   flex-wrap: wrap;
+}
+
+.card{
+    width: 300px;
+    border: solid skyblue 2px;
+    border-radius: 15px;
+    text-align: left;
+    padding: 15px 10px;
+}
+
+.card img{
+    width: 100%;
+     border-radius: 15px;
+}
+
+.card button{
+    border: solid rgb(255, 128, 128) 2px;
+    background-color: rgb(255, 155, 155);
+    font-size: 16px ;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+
